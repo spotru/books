@@ -1,0 +1,1 @@
+C:\devtools\db\mongodb-3.0.15\bin\mongod.exe -dbpath C:\devtools\db\mongodb-3.0.15\data
